@@ -25,8 +25,8 @@ class TCA:
     def __init__(self, dim=30, lamb=1):
         '''
 
-        :param dim: 迁移后的维度
-        :param lamb: 正则化参数
+        :param dim: 降维后的维度
+        :param lamb: 正则项系数
         '''
         self.dim = dim
         self.lamb = lamb

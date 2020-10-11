@@ -18,7 +18,7 @@
 
 
 
-## Reference
+## References
 
 [Transfer Learning](https://github.com/jindongwang/transferlearning) by Jindong Wang
 
