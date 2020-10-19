@@ -2,22 +2,17 @@
 
 记录学习过程中的一些论文笔记，模型实现
 
-
-
 ## 论文
 
-+ TCA、JDA、BDA
++ 传统DA模型：TCA、JDA、BDA、ARTL
 
-+ Ben-David et al.2006，Ben-David et al.2010
-
++ 理论分析：Ben-David et al.2006，Ben-David et al.2010
 
 ## 代码
 
-+ 传统模型
++ 传统DA模型
 
   TCA
-
-
 
 ## References
 
