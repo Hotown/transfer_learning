@@ -35,12 +35,13 @@ def kernal(type, X1, X2, gamma):
 
 
 class TCA:
-    def __init__(self, dim=30, lamb=1, gamma=1):
+    def __init__(self, type, dim=30, lamb=1, gamma=1):
         '''
 
         :param dim: 降维后的维度
         :param lamb: 正则项系数
         '''
+        self.type = type
         self.dim = dim
         self.lamb = lamb
         self.gamma = gamma
@@ -58,8 +59,8 @@ class TCA:
         e = np.vstack((1 / ns * np.ones((ns, 1)), -1 / nt * np.ones((nt, 1))))
         L = e * e.T
         H = np.eye(n) - 1 / n * np.ones((n, n))
-        # K = kernal('linear', X, None, self.gamma)
-        K= kernal('rbf', X, None, gamma=self.gamma)
+        K = kernal(self.type, X, None, self.gamma)
+        # K= kernal('rbf', X, None, gamma=self.gamma)
         Sa = np.linalg.multi_dot([K, L, K.T]) + self.lamb * np.eye(n)
         Sb = np.linalg.multi_dot([K, H, K.T])
 
@@ -89,13 +90,13 @@ class TCA:
 
 
 if __name__ == '__main__':
-    domains = ['Caltech_SURF_L10.mat', 'amazon_SURF_L10.mat', 'webcam_SURF_L10.mat', 'dslr_SURF_L10.mat']
+    domains = ['Caltech10_SURF_L10.mat', 'amazon_SURF_L10.mat', 'webcam_SURF_L10.mat', 'dslr_SURF_L10.mat']
     for i in [2]:
         for j in [3]:
             if i != j:
                 src, tar = '../data/surf/' + domains[i], '../data/surf/' + domains[j]
                 src_domain, tar_domain = sio.loadmat(src), sio.loadmat(tar)
                 Xs, Ys, Xt, Yt = src_domain['fts'], src_domain['labels'], tar_domain['fts'], tar_domain['labels']
-                tca = TCA(dim=50, lamb=1, gamma=1)
+                tca = TCA(type='linear', dim=30, lamb=1, gamma=1)
                 acc, y_ = tca.train(Xs, Xt, Ys, Yt)
                 print('Acc:{:4f}'.format(acc))
