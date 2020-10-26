@@ -1,0 +1,84 @@
+# Transfer Learning 论文总结
+
+## 阅读论文时的问题设置
+
+1. **What is the problem addressed in the paper?**
+
+   > The answer shall address: what are the input $X$ (e.g. a single RGB image, an image sequence, or an RGBD imagel, what are the Y (e.g., pose of the human in the image) what are the constraints on $\mathrm{X}$ and/or $\mathrm{Y}$, if any.
+
+2. **Is this a new problem?**
+
+  + **If it is a new problem, why does it matter?**
+    
+    > A new, meaningful, and yet challenging research problem needs a keen eye to spot, and if it is big/important enough, it may draw many people to work on it. So in a sense, it is a kind of highest innovation.
+    
+  + **If it is not an entirely new problem, why does it still matter?**
+    
+    > When you pick up a problem to work on, you need to clearly state why it is important.
+
+3. **What is the scientific hypothesis that the paper is trying to verify? ** 
+
+   > Answer to this question is to address what new knowledge is advanced in the paper. A scientific hypothesis sounds like: "If we did abc in our algorithm/dnn architecture, $90 \%$ of case we can guarantee results cde. concrete example, "In ResNet, if we do the Residue block, we expect to be able to learn much deeper networks, which leads to much higher recognition accuracy." 
+
+4. **What are the key related works and who are the key people working on this topic?** 
+
+   > lt is important to identify the most relevant work that inspired the work in this paper. Grouping them helps with a taxonomy helps you to build a systematic view about the research problem addressed. And finally. please memorize the name of the authors and affiliations of these related works, as they will be key people who will appreciate or criticize this work.
+
+5. **What is the key of the proposed solution in the paper?** 
+
+   > Please summarize the key differentiation of the paper when compared with the previous related works.
+
+6. **How are the experiments designed?** 
+
+   > Experiments design is very important. A good experiments design shall validate all claims made in the paper. Indeed, experimetns should be designed around this validation.
+
+7. **What datasets are built/used for the quantitative evaluation?Is the code open sourced?** 
+
+   > Dataset is an important factor in scientific research. And code helps for readers to reproduce the results.
+
+8. **Is the scientific hypothesis well supported by evidence in the experiments?**
+
+   > Are the claims in the paper well supported by the experimental results?
+
+9. **What are the contributions of the paper?** 
+
+   > Up to this point, it should be clear if the paper made one or some solid contributions, which really refers to what knowledge is advanced.
+
+10. **What should/could be done next?** 
+
+   > This shall summarize your understanding of the limitations of the proposed method in the paper. Addressing these limitations are naturally future research, both from the problem definition itself and/or technical improvement. Or it could be linked to some other abstract knowledge in your cognitive model and stimulate new directions to go. This final question is the creativity part.
+
+---
+
+## 非深度方法
+
+### TCA
+
+### JDA
+
+### BDA
+
+### ARTL
+
+1：label space一致是否可以理解为label的类别一致
+
+2：什么是核匹配（kernel matching）方法？
+
+3：流式正则化
+
+4：如何训练（训练目标为什么能直接作为正则项）
+
+### DMM
+
+1：DMM的训练流程为什么是反的，即先训练了分类器，再去更新特征表示器？
+
+2：DMM解决了第3个问题吗（consistent with the discriminative structure）
+
+## 深度方法
+
+### DANN
+
+1：distribution adaptation和feature adaptation的区别
+
+2：为什么dH(S,T)中不直接用max，而是1-min
+
