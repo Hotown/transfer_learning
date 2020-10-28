@@ -6,16 +6,13 @@
 
 > ./code：阅读论文过程中复现的部分模型
 > ./notes：论文笔记
-> ProblemSet：论文阅读中的问题总结
 > README
 
 ## 论文
 
-+ 传统DA模型：TCA、JDA、BDA、ARTL
-
-+ 理论分析：Ben-David et al.2006，Ben-David et al.2010
-
++ 非深度模型：TCA、JDA、BDA、ARTL、DMM、JGSA
 + 深度模型：DANN
++ 理论分析：Ben-David et al.2006，Ben-David et al.2010
 ## 代码
 
 + 传统DA模型
