@@ -52,33 +52,39 @@
 
 ## 非深度方法
 
-### TCA
-
-### JDA
-
-### BDA
+### TCA、JDA、BDA
 
 ### ARTL
 
-1：label space一致是否可以理解为label的类别一致
++ label space一致是否可以理解为label的类别一致
 
-2：什么是核匹配（kernel matching）方法？
++ 什么是核匹配（kernel matching）方法？
 
-3：流式正则化
++ 流式正则化
 
-4：如何训练（训练目标为什么能直接作为正则项）
++ 如何训练（训练目标为什么能直接作为正则项）
 
 ### DMM
 
-1：DMM的训练流程为什么是反的，即先训练了分类器，再去更新特征表示器？
++ DMM的训练流程为什么是反的，即先训练了分类器，再去更新特征表示器？
 
-2：DMM解决了第3个问题吗（consistent with the discriminative structure）
++ DMM解决了第3个问题吗？（consistent with the discriminative structure）
+
+### JGSA
+
++ Data centric method和Subspace centric method的区别？
++ 对于两个域差异过大的问题，本文是如何解决的？
 
 ## 深度方法
 
+### DAN
+
++ MK-MMD的定义，计算过程
++ 如何用BP算法对MK-MMD中的参数$\beta$进行更新
+
 ### DANN
 
-1：distribution adaptation和feature adaptation的区别
++ distribution adaptation和feature adaptation的区别
 
-2：为什么dH(S,T)中不直接用max，而是1-min
++ 为什么dH(S,T)中不直接用max，而是1-min
 
