@@ -67,8 +67,9 @@
 ### DMM
 
 + DMM的训练流程为什么是反的，即先训练了分类器，再去更新特征表示器？
-
-+ DMM解决了第3个问题吗？（consistent with the discriminative structure）
+  - 答：文中所描述的只是训练流程的分步，并不代表训练流程。另外，DMM的训练是iterative的，所以先训练分类器，再更新特征提取器是一个理解错误。
++ ***DMM解决了第3个问题吗？（consistent with the discriminative structure）***
+  - Discriminative structure指的是数据的判别结构，指的应该是保留数据中用于分类任务的特征。 文中描述关于判别结构的部分应该只有Structural Risk Minimization，但是这是否能保留数据的判别特性，存疑。（我认为类似ARTL中的分类器与特征表示联合训练的方法才会更好的保留判别特征）
 
 ### JGSA
 
@@ -79,8 +80,9 @@
 
 ### DAN
 
-+ MK-MMD的定义，计算过程
++ MK-MMD
 + 如何用BP算法对MK-MMD中的参数$\beta$进行更新
+  - 答：MK-MMD中的参数$\beta$是转化为QP问题后所得到的close form，并不是用BP算法更新的。
 
 ### DANN
 

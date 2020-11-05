@@ -11,7 +11,7 @@
 ## 论文
 
 + 非深度模型：TCA、JDA、BDA、ARTL、DMM、JGSA
-+ 深度模型：DANN、DAN
++ 深度模型：NIPS_2014_实验文章、DANN、DAN
 + 理论分析：Ben-David et al.2006，Ben-David et al.2010
 ## 代码
 
