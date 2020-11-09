@@ -4,7 +4,6 @@ import scipy
 import scipy.io as sio
 from sklearn.neighbors import KNeighborsClassifier
 
-
 def kernal(type, X1, X2, gamma):
     '''
 
