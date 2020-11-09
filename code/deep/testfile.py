@@ -17,6 +17,6 @@ if __name__ == '__main__':
         'resnet152': ['bottleneck', 3, 8, 36, 3],
     }
 
-    vgg16 = backbone.VGGNet(cfgs['vgg16'], in_channels=3, num_classes=1000, is_batchnorm=True)
+    # vgg16 = backbone.VGGNet(cfgs['vgg16'], in_channels=3, num_classes=1000, s=True)
     # resnet50 = backbone.ResNet(cfgs['resnet50'])
-    # net = torchvision.models.resnet50()
+    net = torchvision.models.resnet50()

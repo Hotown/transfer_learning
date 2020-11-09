@@ -130,6 +130,9 @@ class ResNet(nn.Module):
         self.layer3 = self.make_layer_resnet(block, in_channels=256, layer_num=layers[3], stride=2)
         self.layer4 = self.make_layer_resnet(block, in_channels=512, layer_num=layers[4], stride=2)
 
+        self.avgpool = nn.AdaptiveAvgPool2d((1, 1))
+        self.fc = nn.Linear(512 * block.expansion, num_classes, bias=True)
+
     def make_layer_resnet(self, block, in_channels: int, layer_num: int, stride: int = 1) -> nn.Sequential:
         layers = []
         downsample = None
@@ -146,6 +149,23 @@ class ResNet(nn.Module):
 
         return nn.Sequential(*layers)
 
+    def forward(self, x):
+        x = self.conv1(x)
+        x = self.bn1(x)
+        x = self.relu(x)
+        x = self.maxpool(x)
+
+        x = self.layer1(x)
+        x = self.layer2(x)
+        x = self.layer3(x)
+        x = self.layer4(x)
+
+        x = self.avgpool(x)
+        x = torch.flatten(x, 1)
+        x = self.fc(x)
+
+        return x
+
 
 def conv3x3(in_channels: int, out_channels: int,
             stride: int = 1, padding: int = 1, groups: int = 1, dilation: int = 1) -> nn.Conv2d:
@@ -159,10 +179,3 @@ def conv1x1(in_channels: int, out_channels: int, stride: int = 1) -> nn.Conv2d:
     '''return 1x1 conv'''
     return nn.Conv2d(in_channels, out_channels, kernel_size=1,
                      stride=stride, bias=False)
-
-# cfgs = {
-#     'vgg11': [64, 'M', 128, 'M', 256, 256, 'M', 512, 512, 'M', 512, 512, 'M'],
-#     'vgg13': [64, 64, 'M', 128, 128, 'M', 256, 256, 'M', 512, 512, 'M', 512, 512, 'M'],
-#     'vgg16': [64, 64, 'M', 128, 128, 'M', 256, 256, 256, 'M', 512, 512, 512, 'M', 512, 512, 512, 'M'],
-#     'vgg19': [64, 64, 'M', 128, 128, 'M', 256, 256, 256, 256, 'M', 512, 512, 512, 512, 'M', 512, 512, 512, 512, 'M'],
-# }
