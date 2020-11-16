@@ -11,9 +11,11 @@
 + deep model/：深度迁移学习 & 对抗迁移学习
   
   - How transferable are features in deep neural networks？（实验文章）
-  
+  - What is being transferred in transfer learning？（实验文章，loss landscape，ensemble learning）
   - DAN（AlexNet+MK-MMD）
+  - DSN（domain separate：private domain & shared domain）
   - DANN（H-divergence）
+  - SpotTune（Finetune Policy）
   
 + theory/：理论文章
   - Ben-David et al.2006

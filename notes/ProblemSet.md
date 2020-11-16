@@ -87,6 +87,11 @@
 ### DANN
 
 + distribution adaptation和feature adaptation的区别
-
 + 为什么dH(S,T)中不直接用max，而是1-min
+
+### DSN
+
++ Private Subspace & Shared Subspace
++ Ldiff+Lrecon两个约束来保证private和shared之间的差异性，同时两者结合又能还原原始特征
++ private信息对于最终训练好的Classifier有帮助吗？
 

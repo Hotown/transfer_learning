@@ -11,13 +11,15 @@
 ## 论文
 
 + 非深度模型：TCA、JDA、BDA、ARTL、DMM、JGSA
-+ 深度模型：NIPS_2014_实验文章、DANN、DAN
++ 深度模型：NIPS_2014_实验文章、NIPS_2020_实验文章、DANN、DAN、DSN、SpotTune
 + 理论分析：Ben-David et al.2006，Ben-David et al.2010
 ## 代码
 
 + 传统DA模型
 
   TCA
+  
++ 深度模型backbone
 
 ## References
 
