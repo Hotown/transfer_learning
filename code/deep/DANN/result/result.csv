@@ -1,0 +1,721 @@
+This is the result file.Epoch: [0/100], classify_loss: 0.6329, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3260
+Source acc: 93.8900, target acc: 33.0963
+Epoch: [0/100], classify_loss: 0.6329, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3260
+Source acc: 93.8900, target acc: 33.0963
+Epoch: [1/100], classify_loss: 0.3163, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.0095
+Source acc: 96.1200, target acc: 37.5625
+Epoch: [2/100], classify_loss: 0.2434, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.9366
+Source acc: 97.0600, target acc: 41.6176
+Epoch: [3/100], classify_loss: 0.1624, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8555
+Source acc: 97.6000, target acc: 43.6507
+Epoch: [4/100], classify_loss: 0.1759, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8691
+Source acc: 97.8900, target acc: 43.1730
+Epoch: [5/100], classify_loss: 0.1122, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8053
+Source acc: 98.1200, target acc: 44.3173
+Epoch: [6/100], classify_loss: 0.0921, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7852
+Source acc: 98.3200, target acc: 44.7061
+Epoch: [0/100], classify_loss: 0.6329, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3260
+Source acc: 93.8900, target acc: 33.0963
+Epoch: [1/100], classify_loss: 0.3163, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.0095
+Source acc: 96.1200, target acc: 37.5625
+Epoch: [0/100], classify_loss: 0.6329, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3260
+Source acc: 93.8900, target acc: 33.0963
+Epoch: [1/100], classify_loss: 0.3163, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.0095
+Source acc: 96.1200, target acc: 37.5625
+Epoch: [2/100], classify_loss: 0.2434, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.9366
+Source acc: 97.0600, target acc: 41.6176
+Epoch: [3/100], classify_loss: 0.1624, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8555
+Source acc: 97.6000, target acc: 43.6507
+Epoch: [4/100], classify_loss: 0.1759, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8691
+Source acc: 97.8900, target acc: 43.1730
+Epoch: [5/100], classify_loss: 0.1122, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8053
+Source acc: 98.1200, target acc: 44.3173
+Epoch: [6/100], classify_loss: 0.0921, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7852
+Source acc: 98.3200, target acc: 44.7061
+Epoch: [7/100], classify_loss: 0.1691, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8622
+Source acc: 98.3500, target acc: 46.8392
+Epoch: [8/100], classify_loss: 0.1103, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8035
+Source acc: 98.4800, target acc: 47.6280
+Epoch: [9/100], classify_loss: 0.0994, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7926
+Source acc: 98.4400, target acc: 48.2946
+Epoch: [10/100], classify_loss: 0.1736, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8668
+Source acc: 98.6300, target acc: 49.2056
+Epoch: [11/100], classify_loss: 0.0459, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7391
+Source acc: 98.4700, target acc: 49.6056
+Epoch: [12/100], classify_loss: 0.0509, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7440
+Source acc: 98.6200, target acc: 49.6167
+Epoch: [13/100], classify_loss: 0.0735, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7666
+Source acc: 98.6100, target acc: 49.3390
+Epoch: [14/100], classify_loss: 0.0960, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7891
+Source acc: 98.7500, target acc: 49.9500
+Epoch: [15/100], classify_loss: 0.0580, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7511
+Source acc: 98.7600, target acc: 50.7832
+Epoch: [16/100], classify_loss: 0.0430, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7361
+Source acc: 98.7600, target acc: 51.6943
+Epoch: [17/100], classify_loss: 0.2077, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.9008
+Source acc: 98.8200, target acc: 51.4276
+Epoch: [18/100], classify_loss: 0.0966, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7897
+Source acc: 98.8000, target acc: 52.3386
+Epoch: [19/100], classify_loss: 0.0856, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7787
+Source acc: 98.7500, target acc: 51.6498
+Epoch: [20/100], classify_loss: 0.1415, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8346
+Source acc: 98.8900, target acc: 51.8165
+Epoch: [21/100], classify_loss: 0.1559, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8490
+Source acc: 98.8500, target acc: 49.9833
+Epoch: [22/100], classify_loss: 0.1121, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8052
+Source acc: 98.9100, target acc: 51.1165
+Epoch: [23/100], classify_loss: 0.0473, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7404
+Source acc: 98.8200, target acc: 51.8942
+Epoch: [24/100], classify_loss: 0.0585, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7517
+Source acc: 98.8800, target acc: 51.6165
+Epoch: [25/100], classify_loss: 0.0590, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7522
+Source acc: 98.8800, target acc: 51.6387
+Epoch: [26/100], classify_loss: 0.0325, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7256
+Source acc: 98.8600, target acc: 53.3718
+Epoch: [27/100], classify_loss: 0.0426, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7357
+Source acc: 98.9400, target acc: 52.3831
+Epoch: [28/100], classify_loss: 0.0233, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7165
+Source acc: 98.9200, target acc: 52.8830
+Epoch: [29/100], classify_loss: 0.0486, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7418
+Source acc: 98.9700, target acc: 52.8719
+Epoch: [30/100], classify_loss: 0.0255, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7187
+Source acc: 98.8600, target acc: 51.6498
+Epoch: [31/100], classify_loss: 0.1093, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8024
+Source acc: 98.9100, target acc: 52.2498
+Epoch: [32/100], classify_loss: 0.0606, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7538
+Source acc: 98.9000, target acc: 52.0164
+Epoch: [33/100], classify_loss: 0.1018, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7950
+Source acc: 98.9400, target acc: 53.5274
+Epoch: [34/100], classify_loss: 0.0683, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7615
+Source acc: 99.0200, target acc: 52.8164
+Epoch: [35/100], classify_loss: 0.0492, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7423
+Source acc: 98.9300, target acc: 53.8718
+Epoch: [36/100], classify_loss: 0.0675, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7606
+Source acc: 98.9300, target acc: 53.4941
+Epoch: [37/100], classify_loss: 0.0732, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7663
+Source acc: 98.9400, target acc: 52.7053
+Epoch: [38/100], classify_loss: 0.0806, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7737
+Source acc: 99.0700, target acc: 53.7051
+Epoch: [39/100], classify_loss: 0.0397, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7328
+Source acc: 99.0700, target acc: 53.7274
+Epoch: [40/100], classify_loss: 0.0405, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7336
+Source acc: 99.0000, target acc: 54.9161
+Epoch: [41/100], classify_loss: 0.1246, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8178
+Source acc: 98.9800, target acc: 54.7828
+Epoch: [42/100], classify_loss: 0.0571, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7502
+Source acc: 99.0500, target acc: 53.3941
+Epoch: [43/100], classify_loss: 0.0161, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7093
+Source acc: 98.9600, target acc: 53.9051
+Epoch: [44/100], classify_loss: 0.0188, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7119
+Source acc: 98.9600, target acc: 53.2274
+Epoch: [45/100], classify_loss: 0.0655, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7586
+Source acc: 99.0300, target acc: 51.8054
+Epoch: [46/100], classify_loss: 0.0580, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7512
+Source acc: 98.9000, target acc: 53.3607
+Epoch: [47/100], classify_loss: 0.0444, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7376
+Source acc: 99.0200, target acc: 54.7495
+Epoch: [48/100], classify_loss: 0.0771, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7702
+Source acc: 99.0800, target acc: 53.5496
+Epoch: [49/100], classify_loss: 0.0781, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7713
+Source acc: 98.9500, target acc: 54.0718
+Epoch: [50/100], classify_loss: 0.0279, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7211
+Source acc: 98.9200, target acc: 53.7496
+Epoch: [51/100], classify_loss: 0.0431, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7363
+Source acc: 99.0200, target acc: 53.8162
+Epoch: [52/100], classify_loss: 0.0609, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7540
+Source acc: 99.0300, target acc: 55.2494
+Epoch: [53/100], classify_loss: 0.0536, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7467
+Source acc: 98.9800, target acc: 54.5828
+Epoch: [54/100], classify_loss: 0.0259, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7191
+Source acc: 98.9800, target acc: 54.3717
+Epoch: [55/100], classify_loss: 0.0434, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7366
+Source acc: 98.9700, target acc: 53.5940
+Epoch: [56/100], classify_loss: 0.0738, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7669
+Source acc: 99.0500, target acc: 53.7607
+Epoch: [57/100], classify_loss: 0.0177, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7108
+Source acc: 99.0700, target acc: 54.5606
+Epoch: [58/100], classify_loss: 0.0309, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7241
+Source acc: 99.1100, target acc: 54.6828
+Epoch: [59/100], classify_loss: 0.0124, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7056
+Source acc: 99.0300, target acc: 54.6050
+Epoch: [60/100], classify_loss: 0.0258, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7189
+Source acc: 99.1600, target acc: 53.9385
+Epoch: [61/100], classify_loss: 0.0250, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7181
+Source acc: 98.9300, target acc: 55.0939
+Epoch: [62/100], classify_loss: 0.0134, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7066
+Source acc: 99.0600, target acc: 53.9162
+Epoch: [63/100], classify_loss: 0.0096, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7028
+Source acc: 99.0600, target acc: 55.1050
+Epoch: [64/100], classify_loss: 0.0125, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7057
+Source acc: 99.0300, target acc: 55.3383
+Epoch: [65/100], classify_loss: 0.0171, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7103
+Source acc: 99.1400, target acc: 55.1716
+Epoch: [66/100], classify_loss: 0.0297, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7229
+Source acc: 99.0400, target acc: 54.9495
+Epoch: [67/100], classify_loss: 0.0401, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7333
+Source acc: 99.0400, target acc: 54.8050
+Epoch: [68/100], classify_loss: 0.0130, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7061
+Source acc: 98.9900, target acc: 54.9717
+Epoch: [69/100], classify_loss: 0.0396, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7328
+Source acc: 99.0200, target acc: 53.9718
+Epoch: [70/100], classify_loss: 0.0129, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7060
+Source acc: 99.0400, target acc: 54.0051
+Epoch: [71/100], classify_loss: 0.0395, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7327
+Source acc: 98.9600, target acc: 54.5606
+Epoch: [72/100], classify_loss: 0.0345, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7277
+Source acc: 98.9800, target acc: 55.1383
+Epoch: [73/100], classify_loss: 0.0246, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7177
+Source acc: 99.0100, target acc: 54.6939
+Epoch: [74/100], classify_loss: 0.0127, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7058
+Source acc: 98.9500, target acc: 53.9385
+Epoch: [75/100], classify_loss: 0.0095, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7027
+Source acc: 99.0200, target acc: 52.1831
+Epoch: [76/100], classify_loss: 0.0330, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7262
+Source acc: 99.0700, target acc: 53.4496
+Epoch: [77/100], classify_loss: 0.0138, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7069
+Source acc: 98.9900, target acc: 54.0718
+Epoch: [78/100], classify_loss: 0.0493, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7425
+Source acc: 98.9600, target acc: 54.4273
+Epoch: [79/100], classify_loss: 0.0536, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7467
+Source acc: 98.9700, target acc: 52.6164
+Epoch: [80/100], classify_loss: 0.0226, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7157
+Source acc: 98.9500, target acc: 54.3717
+Epoch: [81/100], classify_loss: 0.0461, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7392
+Source acc: 98.9500, target acc: 53.8051
+Epoch: [82/100], classify_loss: 0.0206, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7137
+Source acc: 99.0400, target acc: 53.7607
+Epoch: [83/100], classify_loss: 0.0066, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.6997
+Source acc: 99.0300, target acc: 53.5940
+Epoch: [84/100], classify_loss: 0.0410, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7341
+Source acc: 99.0300, target acc: 53.2496
+Epoch: [85/100], classify_loss: 0.0088, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7019
+Source acc: 98.9900, target acc: 53.6163
+Epoch: [86/100], classify_loss: 0.0134, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7066
+Source acc: 99.1000, target acc: 54.4273
+Epoch: [87/100], classify_loss: 0.0121, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7053
+Source acc: 98.9300, target acc: 54.8050
+Epoch: [88/100], classify_loss: 0.0161, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7093
+Source acc: 98.9500, target acc: 54.5606
+Epoch: [89/100], classify_loss: 0.0141, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7072
+Source acc: 98.9800, target acc: 54.5273
+Epoch: [90/100], classify_loss: 0.0209, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7140
+Source acc: 99.0400, target acc: 53.7829
+Epoch: [91/100], classify_loss: 0.0230, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7162
+Source acc: 98.9700, target acc: 53.4607
+Epoch: [92/100], classify_loss: 0.0749, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7681
+Source acc: 99.0000, target acc: 53.0719
+Epoch: [93/100], classify_loss: 0.0078, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7009
+Source acc: 99.0400, target acc: 54.1273
+Epoch: [94/100], classify_loss: 0.0191, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7123
+Source acc: 99.0200, target acc: 54.7828
+Epoch: [95/100], classify_loss: 0.0137, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7069
+Source acc: 99.0100, target acc: 54.3717
+Epoch: [96/100], classify_loss: 0.0213, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7145
+Source acc: 99.0400, target acc: 54.5939
+Epoch: [97/100], classify_loss: 0.0120, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7052
+Source acc: 99.0500, target acc: 54.2606
+Epoch: [98/100], classify_loss: 0.0133, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7064
+Source acc: 98.9800, target acc: 55.0161
+Epoch: [99/100], classify_loss: 0.0788, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7720
+Source acc: 99.0100, target acc: 54.5606
+Epoch: [0/100], classify_loss: 0.6329, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3260
+Source acc: 93.8900, target acc: 33.0963
+Epoch: [0/100], classify_loss: 0.6329, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3260
+Source acc: 93.8900, target acc: 33.0963
+Epoch: [0/100], classify_loss: 0.6329, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3260
+Source acc: 93.8900, target acc: 33.0963
+Epoch: [0/100], classify_loss: 0.6317, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3248
+Epoch: [0/100], classify_loss: 0.6317, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3248
+Source acc: 93.9200, target acc: 33.2630
+Epoch: [1/100], classify_loss: 0.3183, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.0114
+Source acc: 96.1700, target acc: 37.8847
+Epoch: [0/100], classify_loss: 0.6317, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3248
+Source acc: 93.9200, target acc: 33.2630
+Epoch: [1/100], classify_loss: 0.3183, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.0114
+Source acc: 96.1700, target acc: 37.8847
+Epoch: [2/100], classify_loss: 0.2394, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.9326
+Source acc: 97.1100, target acc: 41.2732
+Epoch: [3/100], classify_loss: 0.1600, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8532
+Source acc: 97.5700, target acc: 43.3063
+Epoch: [4/100], classify_loss: 0.1823, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8755
+Source acc: 97.8300, target acc: 42.8175
+Epoch: [5/100], classify_loss: 0.1090, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8022
+Source acc: 98.1100, target acc: 43.9173
+Epoch: [0/100], classify_loss: 0.6317, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3248
+Source acc: 93.9200, target acc: 33.2630
+Epoch: [1/100], classify_loss: 0.3183, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.0114
+Source acc: 96.1700, target acc: 37.8847
+Epoch: [2/100], classify_loss: 0.2394, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.9326
+Source acc: 97.1100, target acc: 41.2732
+Epoch: [3/100], classify_loss: 0.1600, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8532
+Source acc: 97.5700, target acc: 43.3063
+Epoch: [4/100], classify_loss: 0.1823, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8755
+Source acc: 97.8300, target acc: 42.8175
+Epoch: [5/100], classify_loss: 0.1090, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8022
+Source acc: 98.1100, target acc: 43.9173
+Epoch: [6/100], classify_loss: 0.0910, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7841
+Source acc: 98.3000, target acc: 44.2395
+Epoch: [7/100], classify_loss: 0.1719, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8650
+Source acc: 98.3700, target acc: 46.7615
+Epoch: [8/100], classify_loss: 0.1115, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8046
+Source acc: 98.5200, target acc: 47.1725
+Epoch: [9/100], classify_loss: 0.1006, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7937
+Source acc: 98.4500, target acc: 48.0391
+Epoch: [10/100], classify_loss: 0.1711, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8643
+Source acc: 98.6700, target acc: 48.8390
+Epoch: [11/100], classify_loss: 0.0446, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.7378
+Epoch: [0/100], classify_loss: -43.6105, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: -42.9173
+Source acc: 70.6500, target acc: 24.5306
+Epoch: [1/100], classify_loss: -757.3328, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: -756.6396
+Source acc: 63.9800, target acc: 24.9750
+Epoch: [2/100], classify_loss: -12014.2422, domain_loss_s: 0.6932, domain_loss_t: 0.6932, domain_loss: 1.3864,total_loss: -12013.5488
+Source acc: 58.7800, target acc: 20.5866
+Epoch: [0/100], classify_loss: 0.6317, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3248
+Source acc: 93.9200, target acc: 33.2630
+Epoch: [1/100], classify_loss: 0.3183, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.0114
+Source acc: 96.1700, target acc: 37.8847
+Epoch: [2/100], classify_loss: 0.2394, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.9326
+Source acc: 97.1100, target acc: 41.2732
+Epoch: [3/100], classify_loss: 0.1600, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8532
+Source acc: 97.5700, target acc: 43.3063
+Epoch: [0/100], classify_loss: 0.6317, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3248
+Source acc: 93.9200, target acc: 33.2630
+Epoch: [1/100], classify_loss: 0.3183, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.0114
+Source acc: 96.1700, target acc: 37.8847
+Epoch: [2/100], classify_loss: 0.2394, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.9326
+Source acc: 97.1100, target acc: 41.2732
+Epoch: [0/100], classify_loss: 0.6346, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3277
+Source acc: 93.9000, target acc: 33.2630
+Epoch: [1/100], classify_loss: 0.3168, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.0099
+Source acc: 96.1000, target acc: 37.6292
+Epoch: [2/100], classify_loss: 0.2429, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.9360
+Source acc: 97.1200, target acc: 41.2176
+Epoch: [3/100], classify_loss: 0.1604, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 0.8536
+Source acc: 97.5500, target acc: 43.0508
+Epoch: [0/100], classify_loss: 0.6346, domain_loss_s: 0.6931, domain_loss_t: 0.6931, domain_loss: 1.3863,total_loss: 1.3277
+Source acc: 93.9000, target acc: 33.2630
+Epoch: [0/100], classify_loss: 0.6205, domain_loss_s: 0.6550, domain_loss_t: 0.7246, domain_loss: 1.3795,total_loss: 1.3103
+Epoch: [0/100], classify_loss: 0.6205, domain_loss_s: 0.6550, domain_loss_t: 0.7246, domain_loss: 1.3795,total_loss: 1.3103
+Source acc: 93.7200, target acc: 34.2406
+Epoch: [1/100], classify_loss: 0.3347, domain_loss_s: 0.6539, domain_loss_t: 0.7091, domain_loss: 1.3630,total_loss: 1.0162
+Source acc: 96.0900, target acc: 38.4735
+Epoch: [2/100], classify_loss: 0.3417, domain_loss_s: 0.6463, domain_loss_t: 0.6929, domain_loss: 1.3393,total_loss: 1.0114
+Source acc: 97.1000, target acc: 42.3397
+Epoch: [3/100], classify_loss: 0.1739, domain_loss_s: 0.6536, domain_loss_t: 0.6949, domain_loss: 1.3486,total_loss: 0.8482
+Source acc: 97.9600, target acc: 46.1949
+Epoch: [4/100], classify_loss: 0.1680, domain_loss_s: 0.6533, domain_loss_t: 0.6934, domain_loss: 1.3466,total_loss: 0.8414
+Source acc: 98.3200, target acc: 51.1277
+Epoch: [5/100], classify_loss: 0.1260, domain_loss_s: 0.6773, domain_loss_t: 0.6794, domain_loss: 1.3567,total_loss: 0.8044
+Source acc: 98.3900, target acc: 52.7386
+Epoch: [6/100], classify_loss: 0.1801, domain_loss_s: 0.6663, domain_loss_t: 0.6748, domain_loss: 1.3411,total_loss: 0.8506
+Source acc: 98.4900, target acc: 50.6277
+Epoch: [7/100], classify_loss: 0.1546, domain_loss_s: 0.6657, domain_loss_t: 0.6635, domain_loss: 1.3292,total_loss: 0.8192
+Source acc: 98.4500, target acc: 50.3500
+Epoch: [8/100], classify_loss: 0.1176, domain_loss_s: 0.6696, domain_loss_t: 0.6587, domain_loss: 1.3283,total_loss: 0.7818
+Source acc: 98.5700, target acc: 53.0941
+Epoch: [9/100], classify_loss: 0.1010, domain_loss_s: 0.6451, domain_loss_t: 0.6626, domain_loss: 1.3077,total_loss: 0.7548
+Source acc: 98.7100, target acc: 52.3164
+Epoch: [10/100], classify_loss: 0.1855, domain_loss_s: 0.6263, domain_loss_t: 0.6429, domain_loss: 1.2692,total_loss: 0.8201
+Source acc: 98.7900, target acc: 57.5492
+Epoch: [11/100], classify_loss: 0.0902, domain_loss_s: 0.6306, domain_loss_t: 0.6616, domain_loss: 1.2922,total_loss: 0.7362
+Source acc: 98.8400, target acc: 61.0710
+Epoch: [0/100], classify_loss: 0.6192, domain_loss_s: 0.6551, domain_loss_t: 0.7241, domain_loss: 1.3791,total_loss: 1.3087
+Source acc: 93.7400, target acc: 34.1851
+Epoch: [1/100], classify_loss: 0.3394, domain_loss_s: 0.6541, domain_loss_t: 0.7096, domain_loss: 1.3637,total_loss: 1.0212
+Source acc: 96.0500, target acc: 38.5291
+Epoch: [2/100], classify_loss: 0.3389, domain_loss_s: 0.6462, domain_loss_t: 0.6913, domain_loss: 1.3375,total_loss: 1.0076
+Source acc: 97.2300, target acc: 42.4508
+Epoch: [3/100], classify_loss: 0.1760, domain_loss_s: 0.6543, domain_loss_t: 0.6943, domain_loss: 1.3486,total_loss: 0.8503
+Source acc: 97.8600, target acc: 45.9616
+Epoch: [4/100], classify_loss: 0.1627, domain_loss_s: 0.6537, domain_loss_t: 0.6945, domain_loss: 1.3482,total_loss: 0.8369
+Source acc: 98.3700, target acc: 51.2388
+Epoch: [5/100], classify_loss: 0.1281, domain_loss_s: 0.6771, domain_loss_t: 0.6809, domain_loss: 1.3580,total_loss: 0.8070
+Source acc: 98.3500, target acc: 52.1053
+Epoch: [6/100], classify_loss: 0.1887, domain_loss_s: 0.6674, domain_loss_t: 0.6740, domain_loss: 1.3414,total_loss: 0.8594
+Source acc: 98.4600, target acc: 50.0167
+Epoch: [7/100], classify_loss: 0.1529, domain_loss_s: 0.6655, domain_loss_t: 0.6621, domain_loss: 1.3276,total_loss: 0.8167
+Source acc: 98.3600, target acc: 50.0389
+Epoch: [8/100], classify_loss: 0.1231, domain_loss_s: 0.6678, domain_loss_t: 0.6575, domain_loss: 1.3252,total_loss: 0.7857
+Source acc: 98.5200, target acc: 53.1830
+Epoch: [9/100], classify_loss: 0.1034, domain_loss_s: 0.6445, domain_loss_t: 0.6656, domain_loss: 1.3101,total_loss: 0.7585
+Source acc: 98.6800, target acc: 53.3941
+Epoch: [10/100], classify_loss: 0.1943, domain_loss_s: 0.6254, domain_loss_t: 0.6416, domain_loss: 1.2670,total_loss: 0.8278
+Source acc: 98.7700, target acc: 58.0047
+Epoch: [11/100], classify_loss: 0.0805, domain_loss_s: 0.6314, domain_loss_t: 0.6531, domain_loss: 1.2846,total_loss: 0.7228
+Source acc: 98.8300, target acc: 61.1265
+Epoch: [12/100], classify_loss: 0.1684, domain_loss_s: 0.6677, domain_loss_t: 0.6463, domain_loss: 1.3139,total_loss: 0.8254
+Source acc: 98.9100, target acc: 59.7378
+Epoch: [13/100], classify_loss: 0.1741, domain_loss_s: 0.6534, domain_loss_t: 0.6348, domain_loss: 1.2883,total_loss: 0.8182
+Source acc: 98.8400, target acc: 63.0819
+Epoch: [14/100], classify_loss: 0.1295, domain_loss_s: 0.6221, domain_loss_t: 0.6536, domain_loss: 1.2757,total_loss: 0.7673
+Source acc: 98.8700, target acc: 62.8597
+Epoch: [15/100], classify_loss: 0.0937, domain_loss_s: 0.6460, domain_loss_t: 0.6271, domain_loss: 1.2731,total_loss: 0.7303
+Source acc: 98.8700, target acc: 64.4595
+Epoch: [16/100], classify_loss: 0.1442, domain_loss_s: 0.6198, domain_loss_t: 0.6216, domain_loss: 1.2414,total_loss: 0.7649
+Source acc: 98.9000, target acc: 65.2150
+Epoch: [17/100], classify_loss: 0.1338, domain_loss_s: 0.6528, domain_loss_t: 0.6198, domain_loss: 1.2726,total_loss: 0.7701
+Source acc: 98.8500, target acc: 69.3812
+Epoch: [18/100], classify_loss: 0.1378, domain_loss_s: 0.6312, domain_loss_t: 0.6073, domain_loss: 1.2385,total_loss: 0.7570
+Source acc: 98.9000, target acc: 69.1479
+Epoch: [19/100], classify_loss: 0.0507, domain_loss_s: 0.6236, domain_loss_t: 0.6450, domain_loss: 1.2686,total_loss: 0.6850
+Source acc: 98.8600, target acc: 70.3255
+Epoch: [20/100], classify_loss: 0.0240, domain_loss_s: 0.6067, domain_loss_t: 0.6420, domain_loss: 1.2488,total_loss: 0.6484
+Source acc: 98.9900, target acc: 74.9139
+Epoch: [21/100], classify_loss: 0.0364, domain_loss_s: 0.5999, domain_loss_t: 0.6366, domain_loss: 1.2364,total_loss: 0.6546
+Source acc: 98.7900, target acc: 74.8250
+Epoch: [22/100], classify_loss: 0.1193, domain_loss_s: 0.6000, domain_loss_t: 0.6389, domain_loss: 1.2390,total_loss: 0.7388
+Source acc: 98.8200, target acc: 76.4693
+Epoch: [23/100], classify_loss: 0.1182, domain_loss_s: 0.6393, domain_loss_t: 0.6402, domain_loss: 1.2794,total_loss: 0.7579
+Source acc: 98.9700, target acc: 76.6581
+Epoch: [24/100], classify_loss: 0.0518, domain_loss_s: 0.5919, domain_loss_t: 0.6534, domain_loss: 1.2453,total_loss: 0.6745
+Source acc: 98.8500, target acc: 77.2581
+Epoch: [25/100], classify_loss: 0.1528, domain_loss_s: 0.6432, domain_loss_t: 0.6294, domain_loss: 1.2726,total_loss: 0.7891
+Source acc: 98.8000, target acc: 78.5468
+Epoch: [26/100], classify_loss: 0.0689, domain_loss_s: 0.6064, domain_loss_t: 0.6162, domain_loss: 1.2226,total_loss: 0.6802
+Source acc: 98.8400, target acc: 79.6800
+Epoch: [27/100], classify_loss: 0.0609, domain_loss_s: 0.6244, domain_loss_t: 0.6082, domain_loss: 1.2326,total_loss: 0.6772
+Source acc: 98.6500, target acc: 79.9800
+Epoch: [28/100], classify_loss: 0.0585, domain_loss_s: 0.6368, domain_loss_t: 0.6594, domain_loss: 1.2962,total_loss: 0.7066
+Source acc: 98.9000, target acc: 81.2243
+Epoch: [29/100], classify_loss: 0.0688, domain_loss_s: 0.6414, domain_loss_t: 0.6315, domain_loss: 1.2730,total_loss: 0.7053
+Source acc: 98.8000, target acc: 82.1353
+Epoch: [30/100], classify_loss: 0.1547, domain_loss_s: 0.6598, domain_loss_t: 0.6468, domain_loss: 1.3066,total_loss: 0.8081
+Source acc: 98.8300, target acc: 81.3243
+Epoch: [31/100], classify_loss: 0.1804, domain_loss_s: 0.6254, domain_loss_t: 0.6999, domain_loss: 1.3253,total_loss: 0.8430
+Source acc: 98.8400, target acc: 83.3352
+Epoch: [32/100], classify_loss: 0.0845, domain_loss_s: 0.6181, domain_loss_t: 0.6384, domain_loss: 1.2565,total_loss: 0.7127
+Source acc: 98.7300, target acc: 82.1131
+Epoch: [33/100], classify_loss: 0.0734, domain_loss_s: 0.6492, domain_loss_t: 0.6001, domain_loss: 1.2493,total_loss: 0.6980
+Source acc: 98.6100, target acc: 83.9018
+Epoch: [34/100], classify_loss: 0.1586, domain_loss_s: 0.6460, domain_loss_t: 0.6194, domain_loss: 1.2654,total_loss: 0.7913
+Source acc: 98.6800, target acc: 83.2352
+Epoch: [35/100], classify_loss: 0.1719, domain_loss_s: 0.6472, domain_loss_t: 0.6606, domain_loss: 1.3077,total_loss: 0.8258
+Source acc: 98.7100, target acc: 83.7018
+Epoch: [36/100], classify_loss: 0.0762, domain_loss_s: 0.6030, domain_loss_t: 0.6613, domain_loss: 1.2644,total_loss: 0.7084
+Source acc: 98.7400, target acc: 84.4240
+Epoch: [37/100], classify_loss: 0.1103, domain_loss_s: 0.6121, domain_loss_t: 0.6753, domain_loss: 1.2874,total_loss: 0.7540
+Source acc: 98.6600, target acc: 84.5239
+Epoch: [38/100], classify_loss: 0.1992, domain_loss_s: 0.6368, domain_loss_t: 0.6721, domain_loss: 1.3088,total_loss: 0.8536
+Source acc: 98.8300, target acc: 85.2350
+Epoch: [39/100], classify_loss: 0.0814, domain_loss_s: 0.6864, domain_loss_t: 0.6062, domain_loss: 1.2926,total_loss: 0.7277
+Source acc: 98.6400, target acc: 84.7128
+Epoch: [40/100], classify_loss: 0.2163, domain_loss_s: 0.6367, domain_loss_t: 0.6534, domain_loss: 1.2901,total_loss: 0.8613
+Source acc: 98.6600, target acc: 84.8795
+Epoch: [41/100], classify_loss: 0.2357, domain_loss_s: 0.6472, domain_loss_t: 0.6393, domain_loss: 1.2865,total_loss: 0.8789
+Source acc: 98.6900, target acc: 85.6127
+Epoch: [42/100], classify_loss: 0.0814, domain_loss_s: 0.6459, domain_loss_t: 0.6723, domain_loss: 1.3181,total_loss: 0.7404
+Source acc: 98.5400, target acc: 85.5794
+Epoch: [43/100], classify_loss: 0.0815, domain_loss_s: 0.6363, domain_loss_t: 0.6712, domain_loss: 1.3075,total_loss: 0.7353
+Source acc: 98.8000, target acc: 86.2682
+Epoch: [44/100], classify_loss: 0.0356, domain_loss_s: 0.6332, domain_loss_t: 0.6182, domain_loss: 1.2515,total_loss: 0.6614
+Source acc: 98.7800, target acc: 87.1459
+Epoch: [45/100], classify_loss: 0.0540, domain_loss_s: 0.6785, domain_loss_t: 0.6614, domain_loss: 1.3399,total_loss: 0.7239
+Source acc: 98.6700, target acc: 86.1127
+Epoch: [46/100], classify_loss: 0.0398, domain_loss_s: 0.5965, domain_loss_t: 0.6349, domain_loss: 1.2314,total_loss: 0.6555
+Source acc: 98.6700, target acc: 85.8349
+Epoch: [47/100], classify_loss: 0.1631, domain_loss_s: 0.6281, domain_loss_t: 0.6475, domain_loss: 1.2756,total_loss: 0.8009
+Source acc: 98.7400, target acc: 86.3904
+Epoch: [48/100], classify_loss: 0.0688, domain_loss_s: 0.6702, domain_loss_t: 0.6587, domain_loss: 1.3290,total_loss: 0.7333
+Source acc: 98.6500, target acc: 87.1459
+Epoch: [49/100], classify_loss: 0.0799, domain_loss_s: 0.6558, domain_loss_t: 0.6558, domain_loss: 1.3115,total_loss: 0.7356
+Source acc: 98.7100, target acc: 87.0459
+Epoch: [50/100], classify_loss: 0.0550, domain_loss_s: 0.6383, domain_loss_t: 0.6803, domain_loss: 1.3186,total_loss: 0.7143
+Source acc: 98.6800, target acc: 86.2904
+Epoch: [51/100], classify_loss: 0.0900, domain_loss_s: 0.6598, domain_loss_t: 0.6772, domain_loss: 1.3370,total_loss: 0.7585
+Source acc: 98.7000, target acc: 86.8348
+Epoch: [52/100], classify_loss: 0.0476, domain_loss_s: 0.6646, domain_loss_t: 0.6732, domain_loss: 1.3377,total_loss: 0.7165
+Source acc: 98.6900, target acc: 86.9459
+Epoch: [53/100], classify_loss: 0.1263, domain_loss_s: 0.6546, domain_loss_t: 0.6034, domain_loss: 1.2580,total_loss: 0.7553
+Source acc: 98.6400, target acc: 84.9572
+Epoch: [54/100], classify_loss: 0.0348, domain_loss_s: 0.6432, domain_loss_t: 0.6401, domain_loss: 1.2834,total_loss: 0.6764
+Source acc: 98.8100, target acc: 87.7458
+Epoch: [55/100], classify_loss: 0.0479, domain_loss_s: 0.6298, domain_loss_t: 0.6529, domain_loss: 1.2827,total_loss: 0.6892
+Source acc: 98.8300, target acc: 86.9570
+Epoch: [56/100], classify_loss: 0.0716, domain_loss_s: 0.6594, domain_loss_t: 0.6452, domain_loss: 1.3046,total_loss: 0.7239
+Source acc: 98.7500, target acc: 86.6237
+Epoch: [57/100], classify_loss: 0.0420, domain_loss_s: 0.6860, domain_loss_t: 0.6839, domain_loss: 1.3699,total_loss: 0.7270
+Source acc: 98.8100, target acc: 87.3459
+Epoch: [58/100], classify_loss: 0.0760, domain_loss_s: 0.6439, domain_loss_t: 0.6890, domain_loss: 1.3329,total_loss: 0.7424
+Source acc: 98.9700, target acc: 87.3347
+Epoch: [59/100], classify_loss: 0.1103, domain_loss_s: 0.6755, domain_loss_t: 0.6585, domain_loss: 1.3339,total_loss: 0.7772
+Source acc: 98.8400, target acc: 87.5125
+Epoch: [60/100], classify_loss: 0.0649, domain_loss_s: 0.6232, domain_loss_t: 0.6330, domain_loss: 1.2563,total_loss: 0.6931
+Source acc: 98.6600, target acc: 87.5458
+Epoch: [61/100], classify_loss: 0.0904, domain_loss_s: 0.6505, domain_loss_t: 0.6808, domain_loss: 1.3313,total_loss: 0.7561
+Source acc: 98.5900, target acc: 87.5125
+Epoch: [62/100], classify_loss: 0.0660, domain_loss_s: 0.6803, domain_loss_t: 0.6613, domain_loss: 1.3417,total_loss: 0.7368
+Source acc: 98.6000, target acc: 88.4013
+Epoch: [63/100], classify_loss: 0.0487, domain_loss_s: 0.6294, domain_loss_t: 0.6842, domain_loss: 1.3136,total_loss: 0.7056
+Source acc: 98.7500, target acc: 87.0792
+Epoch: [64/100], classify_loss: 0.0375, domain_loss_s: 0.6551, domain_loss_t: 0.6565, domain_loss: 1.3116,total_loss: 0.6933
+Source acc: 98.9000, target acc: 87.9902
+Epoch: [65/100], classify_loss: 0.0914, domain_loss_s: 0.6632, domain_loss_t: 0.7009, domain_loss: 1.3641,total_loss: 0.7735
+Source acc: 98.8700, target acc: 87.7236
+Epoch: [66/100], classify_loss: 0.0866, domain_loss_s: 0.6570, domain_loss_t: 0.6868, domain_loss: 1.3437,total_loss: 0.7585
+Source acc: 98.8900, target acc: 87.9569
+Epoch: [67/100], classify_loss: 0.0698, domain_loss_s: 0.6211, domain_loss_t: 0.6598, domain_loss: 1.2809,total_loss: 0.7103
+Source acc: 98.8800, target acc: 87.8680
+Epoch: [68/100], classify_loss: 0.0667, domain_loss_s: 0.6605, domain_loss_t: 0.6820, domain_loss: 1.3425,total_loss: 0.7380
+Source acc: 98.9200, target acc: 88.2235
+Epoch: [69/100], classify_loss: 0.0753, domain_loss_s: 0.6619, domain_loss_t: 0.6495, domain_loss: 1.3114,total_loss: 0.7310
+Source acc: 98.6900, target acc: 88.3902
+Epoch: [70/100], classify_loss: 0.0873, domain_loss_s: 0.6524, domain_loss_t: 0.6482, domain_loss: 1.3007,total_loss: 0.7376
+Source acc: 98.8600, target acc: 88.3680
+Epoch: [71/100], classify_loss: 0.0863, domain_loss_s: 0.6608, domain_loss_t: 0.6469, domain_loss: 1.3077,total_loss: 0.7402
+Source acc: 98.5800, target acc: 87.7014
+Epoch: [72/100], classify_loss: 0.0293, domain_loss_s: 0.6837, domain_loss_t: 0.6394, domain_loss: 1.3231,total_loss: 0.6908
+Source acc: 98.8000, target acc: 88.4457
+Epoch: [73/100], classify_loss: 0.1316, domain_loss_s: 0.6473, domain_loss_t: 0.6682, domain_loss: 1.3156,total_loss: 0.7894
+Source acc: 98.9100, target acc: 89.0346
+Epoch: [74/100], classify_loss: 0.0697, domain_loss_s: 0.6660, domain_loss_t: 0.6153, domain_loss: 1.2813,total_loss: 0.7104
+Source acc: 99.0000, target acc: 87.7125
+Epoch: [75/100], classify_loss: 0.1295, domain_loss_s: 0.6588, domain_loss_t: 0.6241, domain_loss: 1.2829,total_loss: 0.7709
+Source acc: 98.8300, target acc: 87.3347
+Epoch: [76/100], classify_loss: 0.0260, domain_loss_s: 0.6596, domain_loss_t: 0.6479, domain_loss: 1.3075,total_loss: 0.6798
+Source acc: 98.7400, target acc: 88.2458
+Epoch: [77/100], classify_loss: 0.0836, domain_loss_s: 0.6452, domain_loss_t: 0.6493, domain_loss: 1.2945,total_loss: 0.7308
+Source acc: 98.7700, target acc: 89.4567
+Epoch: [78/100], classify_loss: 0.0498, domain_loss_s: 0.6888, domain_loss_t: 0.6577, domain_loss: 1.3465,total_loss: 0.7231
+Source acc: 98.7500, target acc: 87.6125
+Epoch: [79/100], classify_loss: 0.1539, domain_loss_s: 0.6888, domain_loss_t: 0.6731, domain_loss: 1.3619,total_loss: 0.8348
+Source acc: 98.8400, target acc: 88.1124
+Epoch: [80/100], classify_loss: 0.0616, domain_loss_s: 0.6237, domain_loss_t: 0.6542, domain_loss: 1.2779,total_loss: 0.7005
+Source acc: 98.8700, target acc: 88.6457
+Epoch: [81/100], classify_loss: 0.0656, domain_loss_s: 0.6375, domain_loss_t: 0.6827, domain_loss: 1.3202,total_loss: 0.7256
+Source acc: 98.8600, target acc: 88.9790
+Epoch: [82/100], classify_loss: 0.0261, domain_loss_s: 0.6419, domain_loss_t: 0.6769, domain_loss: 1.3188,total_loss: 0.6855
+Source acc: 98.7000, target acc: 87.3570
+Epoch: [83/100], classify_loss: 0.0151, domain_loss_s: 0.6554, domain_loss_t: 0.6622, domain_loss: 1.3176,total_loss: 0.6739
+Source acc: 98.9900, target acc: 88.9457
+Epoch: [84/100], classify_loss: 0.0328, domain_loss_s: 0.6673, domain_loss_t: 0.6840, domain_loss: 1.3513,total_loss: 0.7084
+Source acc: 98.7900, target acc: 88.8457
+Epoch: [85/100], classify_loss: 0.0608, domain_loss_s: 0.6546, domain_loss_t: 0.6764, domain_loss: 1.3310,total_loss: 0.7263
+Source acc: 98.8000, target acc: 88.0013
+Epoch: [86/100], classify_loss: 0.0923, domain_loss_s: 0.6780, domain_loss_t: 0.6663, domain_loss: 1.3443,total_loss: 0.7645
+Source acc: 98.9800, target acc: 89.4234
+Epoch: [87/100], classify_loss: 0.0910, domain_loss_s: 0.6557, domain_loss_t: 0.6586, domain_loss: 1.3143,total_loss: 0.7481
+Source acc: 98.8200, target acc: 89.5567
+Epoch: [88/100], classify_loss: 0.0855, domain_loss_s: 0.6429, domain_loss_t: 0.6200, domain_loss: 1.2629,total_loss: 0.7169
+Source acc: 98.7500, target acc: 88.5346
+Epoch: [89/100], classify_loss: 0.0824, domain_loss_s: 0.6830, domain_loss_t: 0.6126, domain_loss: 1.2956,total_loss: 0.7302
+Source acc: 98.8400, target acc: 88.5457
+Epoch: [90/100], classify_loss: 0.0484, domain_loss_s: 0.6154, domain_loss_t: 0.6739, domain_loss: 1.2893,total_loss: 0.6930
+Source acc: 98.6700, target acc: 88.4902
+Epoch: [91/100], classify_loss: 0.0883, domain_loss_s: 0.6294, domain_loss_t: 0.6637, domain_loss: 1.2930,total_loss: 0.7349
+Source acc: 98.8600, target acc: 89.4789
+Epoch: [92/100], classify_loss: 0.0623, domain_loss_s: 0.6457, domain_loss_t: 0.6629, domain_loss: 1.3086,total_loss: 0.7166
+Source acc: 98.7000, target acc: 87.8458
+Epoch: [93/100], classify_loss: 0.0406, domain_loss_s: 0.6528, domain_loss_t: 0.6315, domain_loss: 1.2843,total_loss: 0.6827
+Source acc: 98.8200, target acc: 89.3790
+Epoch: [94/100], classify_loss: 0.0542, domain_loss_s: 0.6515, domain_loss_t: 0.6428, domain_loss: 1.2942,total_loss: 0.7013
+Source acc: 98.7200, target acc: 88.3457
+Epoch: [95/100], classify_loss: 0.0515, domain_loss_s: 0.6338, domain_loss_t: 0.6353, domain_loss: 1.2691,total_loss: 0.6860
+Source acc: 98.6800, target acc: 87.5125
+Epoch: [96/100], classify_loss: 0.0375, domain_loss_s: 0.6467, domain_loss_t: 0.6378, domain_loss: 1.2845,total_loss: 0.6798
+Source acc: 98.8200, target acc: 88.6457
+Epoch: [97/100], classify_loss: 0.0837, domain_loss_s: 0.6534, domain_loss_t: 0.6745, domain_loss: 1.3279,total_loss: 0.7477
+Source acc: 98.9500, target acc: 88.6235
+Epoch: [98/100], classify_loss: 0.0770, domain_loss_s: 0.6505, domain_loss_t: 0.6615, domain_loss: 1.3120,total_loss: 0.7330
+Source acc: 98.8500, target acc: 89.2790
+Epoch: [99/100], classify_loss: 0.0169, domain_loss_s: 0.6400, domain_loss_t: 0.6871, domain_loss: 1.3271,total_loss: 0.6805
+Source acc: 98.6600, target acc: 88.6679
+Epoch: [0/100], classify_loss: 0.6192, domain_loss_s: 0.6551, domain_loss_t: 0.7241, domain_loss: 1.3791,total_loss: 1.3087
+Source acc: 93.7400, target acc: 34.1851
+Epoch: [1/100], classify_loss: 0.3394, domain_loss_s: 0.6541, domain_loss_t: 0.7096, domain_loss: 1.3637,total_loss: 1.0212
+Source acc: 96.0500, target acc: 38.5291
+Epoch: [2/100], classify_loss: 0.3389, domain_loss_s: 0.6462, domain_loss_t: 0.6913, domain_loss: 1.3375,total_loss: 1.0076
+Source acc: 97.2300, target acc: 42.4508
+Epoch: [3/100], classify_loss: 0.1760, domain_loss_s: 0.6543, domain_loss_t: 0.6943, domain_loss: 1.3486,total_loss: 0.8503
+Source acc: 97.8600, target acc: 45.9616
+Epoch: [4/100], classify_loss: 0.1627, domain_loss_s: 0.6537, domain_loss_t: 0.6945, domain_loss: 1.3482,total_loss: 0.8369
+Source acc: 98.3700, target acc: 51.2388
+Epoch: [5/100], classify_loss: 0.1281, domain_loss_s: 0.6771, domain_loss_t: 0.6809, domain_loss: 1.3580,total_loss: 0.8070
+Source acc: 98.3500, target acc: 52.1053
+Epoch: [6/100], classify_loss: 0.1887, domain_loss_s: 0.6674, domain_loss_t: 0.6740, domain_loss: 1.3414,total_loss: 0.8594
+Source acc: 98.4600, target acc: 50.0167
+Epoch: [7/100], classify_loss: 0.1529, domain_loss_s: 0.6655, domain_loss_t: 0.6621, domain_loss: 1.3276,total_loss: 0.8167
+Source acc: 98.3600, target acc: 50.0389
+Epoch: [8/100], classify_loss: 0.1231, domain_loss_s: 0.6678, domain_loss_t: 0.6575, domain_loss: 1.3252,total_loss: 0.7857
+Source acc: 98.5200, target acc: 53.1830
+Epoch: [9/100], classify_loss: 0.1034, domain_loss_s: 0.6445, domain_loss_t: 0.6656, domain_loss: 1.3101,total_loss: 0.7585
+Source acc: 98.6800, target acc: 53.3941
+Epoch: [10/100], classify_loss: 0.1943, domain_loss_s: 0.6254, domain_loss_t: 0.6416, domain_loss: 1.2670,total_loss: 0.8278
+Source acc: 98.7700, target acc: 58.0047
+Epoch: [11/100], classify_loss: 0.0805, domain_loss_s: 0.6314, domain_loss_t: 0.6531, domain_loss: 1.2846,total_loss: 0.7228
+Source acc: 98.8300, target acc: 61.1265
+Epoch: [12/100], classify_loss: 0.1684, domain_loss_s: 0.6677, domain_loss_t: 0.6463, domain_loss: 1.3139,total_loss: 0.8254
+Source acc: 98.9100, target acc: 59.7378
+Epoch: [13/100], classify_loss: 0.1741, domain_loss_s: 0.6534, domain_loss_t: 0.6348, domain_loss: 1.2883,total_loss: 0.8182
+Source acc: 98.8400, target acc: 63.0819
+Epoch: [14/100], classify_loss: 0.1295, domain_loss_s: 0.6221, domain_loss_t: 0.6536, domain_loss: 1.2757,total_loss: 0.7673
+Source acc: 98.8700, target acc: 62.8597
+Epoch: [15/100], classify_loss: 0.0937, domain_loss_s: 0.6460, domain_loss_t: 0.6271, domain_loss: 1.2731,total_loss: 0.7303
+Source acc: 98.8700, target acc: 64.4595
+Epoch: [16/100], classify_loss: 0.1442, domain_loss_s: 0.6198, domain_loss_t: 0.6216, domain_loss: 1.2414,total_loss: 0.7649
+Source acc: 98.9000, target acc: 65.2150
+Epoch: [17/100], classify_loss: 0.1338, domain_loss_s: 0.6528, domain_loss_t: 0.6198, domain_loss: 1.2726,total_loss: 0.7701
+Source acc: 98.8500, target acc: 69.3812
+Epoch: [18/100], classify_loss: 0.1378, domain_loss_s: 0.6312, domain_loss_t: 0.6073, domain_loss: 1.2385,total_loss: 0.7570
+Source acc: 98.9000, target acc: 69.1479
+Epoch: [19/100], classify_loss: 0.0507, domain_loss_s: 0.6236, domain_loss_t: 0.6450, domain_loss: 1.2686,total_loss: 0.6850
+Source acc: 98.8600, target acc: 70.3255
+Epoch: [20/100], classify_loss: 0.0240, domain_loss_s: 0.6067, domain_loss_t: 0.6420, domain_loss: 1.2488,total_loss: 0.6484
+Source acc: 98.9900, target acc: 74.9139
+Epoch: [21/100], classify_loss: 0.0364, domain_loss_s: 0.5999, domain_loss_t: 0.6366, domain_loss: 1.2364,total_loss: 0.6546
+Source acc: 98.7900, target acc: 74.8250
+Epoch: [22/100], classify_loss: 0.1193, domain_loss_s: 0.6000, domain_loss_t: 0.6389, domain_loss: 1.2390,total_loss: 0.7388
+Source acc: 98.8200, target acc: 76.4693
+Epoch: [23/100], classify_loss: 0.1182, domain_loss_s: 0.6393, domain_loss_t: 0.6402, domain_loss: 1.2794,total_loss: 0.7579
+Source acc: 98.9700, target acc: 76.6581
+Epoch: [24/100], classify_loss: 0.0518, domain_loss_s: 0.5919, domain_loss_t: 0.6534, domain_loss: 1.2453,total_loss: 0.6745
+Source acc: 98.8500, target acc: 77.2581
+Epoch: [25/100], classify_loss: 0.1528, domain_loss_s: 0.6432, domain_loss_t: 0.6294, domain_loss: 1.2726,total_loss: 0.7891
+Source acc: 98.8000, target acc: 78.5468
+Epoch: [26/100], classify_loss: 0.0689, domain_loss_s: 0.6064, domain_loss_t: 0.6162, domain_loss: 1.2226,total_loss: 0.6802
+Source acc: 98.8400, target acc: 79.6800
+Epoch: [27/100], classify_loss: 0.0609, domain_loss_s: 0.6244, domain_loss_t: 0.6082, domain_loss: 1.2326,total_loss: 0.6772
+Source acc: 98.6500, target acc: 79.9800
+Epoch: [28/100], classify_loss: 0.0585, domain_loss_s: 0.6368, domain_loss_t: 0.6594, domain_loss: 1.2962,total_loss: 0.7066
+Source acc: 98.9000, target acc: 81.2243
+Epoch: [29/100], classify_loss: 0.0688, domain_loss_s: 0.6414, domain_loss_t: 0.6315, domain_loss: 1.2730,total_loss: 0.7053
+Source acc: 98.8000, target acc: 82.1353
+Epoch: [30/100], classify_loss: 0.1547, domain_loss_s: 0.6598, domain_loss_t: 0.6468, domain_loss: 1.3066,total_loss: 0.8081
+Source acc: 98.8300, target acc: 81.3243
+Epoch: [31/100], classify_loss: 0.1804, domain_loss_s: 0.6254, domain_loss_t: 0.6999, domain_loss: 1.3253,total_loss: 0.8430
+Source acc: 98.8400, target acc: 83.3352
+Epoch: [32/100], classify_loss: 0.0845, domain_loss_s: 0.6181, domain_loss_t: 0.6384, domain_loss: 1.2565,total_loss: 0.7127
+Source acc: 98.7300, target acc: 82.1131
+Epoch: [33/100], classify_loss: 0.0734, domain_loss_s: 0.6492, domain_loss_t: 0.6001, domain_loss: 1.2493,total_loss: 0.6980
+Source acc: 98.6100, target acc: 83.9018
+Epoch: [34/100], classify_loss: 0.1586, domain_loss_s: 0.6460, domain_loss_t: 0.6194, domain_loss: 1.2654,total_loss: 0.7913
+Source acc: 98.6800, target acc: 83.2352
+Epoch: [35/100], classify_loss: 0.1719, domain_loss_s: 0.6472, domain_loss_t: 0.6606, domain_loss: 1.3077,total_loss: 0.8258
+Source acc: 98.7100, target acc: 83.7018
+Epoch: [36/100], classify_loss: 0.0762, domain_loss_s: 0.6030, domain_loss_t: 0.6613, domain_loss: 1.2644,total_loss: 0.7084
+Source acc: 98.7400, target acc: 84.4240
+Epoch: [37/100], classify_loss: 0.1103, domain_loss_s: 0.6121, domain_loss_t: 0.6753, domain_loss: 1.2874,total_loss: 0.7540
+Source acc: 98.6600, target acc: 84.5239
+Epoch: [38/100], classify_loss: 0.1992, domain_loss_s: 0.6368, domain_loss_t: 0.6721, domain_loss: 1.3088,total_loss: 0.8536
+Source acc: 98.8300, target acc: 85.2350
+Epoch: [39/100], classify_loss: 0.0814, domain_loss_s: 0.6864, domain_loss_t: 0.6062, domain_loss: 1.2926,total_loss: 0.7277
+Source acc: 98.6400, target acc: 84.7128
+Epoch: [40/100], classify_loss: 0.2163, domain_loss_s: 0.6367, domain_loss_t: 0.6534, domain_loss: 1.2901,total_loss: 0.8613
+Source acc: 98.6600, target acc: 84.8795
+Epoch: [41/100], classify_loss: 0.2357, domain_loss_s: 0.6472, domain_loss_t: 0.6393, domain_loss: 1.2865,total_loss: 0.8789
+Source acc: 98.6900, target acc: 85.6127
+Epoch: [42/100], classify_loss: 0.0814, domain_loss_s: 0.6459, domain_loss_t: 0.6723, domain_loss: 1.3181,total_loss: 0.7404
+Source acc: 98.5400, target acc: 85.5794
+Epoch: [43/100], classify_loss: 0.0815, domain_loss_s: 0.6363, domain_loss_t: 0.6712, domain_loss: 1.3075,total_loss: 0.7353
+Source acc: 98.8000, target acc: 86.2682
+Epoch: [44/100], classify_loss: 0.0356, domain_loss_s: 0.6332, domain_loss_t: 0.6182, domain_loss: 1.2515,total_loss: 0.6614
+Source acc: 98.7800, target acc: 87.1459
+Epoch: [45/100], classify_loss: 0.0540, domain_loss_s: 0.6785, domain_loss_t: 0.6614, domain_loss: 1.3399,total_loss: 0.7239
+Source acc: 98.6700, target acc: 86.1127
+Epoch: [46/100], classify_loss: 0.0398, domain_loss_s: 0.5965, domain_loss_t: 0.6349, domain_loss: 1.2314,total_loss: 0.6555
+Source acc: 98.6700, target acc: 85.8349
+Epoch: [47/100], classify_loss: 0.1631, domain_loss_s: 0.6281, domain_loss_t: 0.6475, domain_loss: 1.2756,total_loss: 0.8009
+Source acc: 98.7400, target acc: 86.3904
+Epoch: [48/100], classify_loss: 0.0688, domain_loss_s: 0.6702, domain_loss_t: 0.6587, domain_loss: 1.3290,total_loss: 0.7333
+Source acc: 98.6500, target acc: 87.1459
+Epoch: [49/100], classify_loss: 0.0799, domain_loss_s: 0.6558, domain_loss_t: 0.6558, domain_loss: 1.3115,total_loss: 0.7356
+Source acc: 98.7100, target acc: 87.0459
+Epoch: [50/100], classify_loss: 0.0550, domain_loss_s: 0.6383, domain_loss_t: 0.6803, domain_loss: 1.3186,total_loss: 0.7143
+Source acc: 98.6800, target acc: 86.2904
+Epoch: [51/100], classify_loss: 0.0900, domain_loss_s: 0.6598, domain_loss_t: 0.6772, domain_loss: 1.3370,total_loss: 0.7585
+Source acc: 98.7000, target acc: 86.8348
+Epoch: [52/100], classify_loss: 0.0476, domain_loss_s: 0.6646, domain_loss_t: 0.6732, domain_loss: 1.3377,total_loss: 0.7165
+Source acc: 98.6900, target acc: 86.9459
+Epoch: [53/100], classify_loss: 0.1263, domain_loss_s: 0.6546, domain_loss_t: 0.6034, domain_loss: 1.2580,total_loss: 0.7553
+Source acc: 98.6400, target acc: 84.9572
+Epoch: [54/100], classify_loss: 0.0348, domain_loss_s: 0.6432, domain_loss_t: 0.6401, domain_loss: 1.2834,total_loss: 0.6764
+Source acc: 98.8100, target acc: 87.7458
+Epoch: [55/100], classify_loss: 0.0479, domain_loss_s: 0.6298, domain_loss_t: 0.6529, domain_loss: 1.2827,total_loss: 0.6892
+Source acc: 98.8300, target acc: 86.9570
+Epoch: [56/100], classify_loss: 0.0716, domain_loss_s: 0.6594, domain_loss_t: 0.6452, domain_loss: 1.3046,total_loss: 0.7239
+Source acc: 98.7500, target acc: 86.6237
+Epoch: [57/100], classify_loss: 0.0420, domain_loss_s: 0.6860, domain_loss_t: 0.6839, domain_loss: 1.3699,total_loss: 0.7270
+Source acc: 98.8100, target acc: 87.3459
+Epoch: [58/100], classify_loss: 0.0760, domain_loss_s: 0.6439, domain_loss_t: 0.6890, domain_loss: 1.3329,total_loss: 0.7424
+Source acc: 98.9700, target acc: 87.3347
+Epoch: [59/100], classify_loss: 0.1103, domain_loss_s: 0.6755, domain_loss_t: 0.6585, domain_loss: 1.3339,total_loss: 0.7772
+Source acc: 98.8400, target acc: 87.5125
+Epoch: [60/100], classify_loss: 0.0649, domain_loss_s: 0.6232, domain_loss_t: 0.6330, domain_loss: 1.2563,total_loss: 0.6931
+Source acc: 98.6600, target acc: 87.5458
+Epoch: [61/100], classify_loss: 0.0904, domain_loss_s: 0.6505, domain_loss_t: 0.6808, domain_loss: 1.3313,total_loss: 0.7561
+Source acc: 98.5900, target acc: 87.5125
+Epoch: [62/100], classify_loss: 0.0660, domain_loss_s: 0.6803, domain_loss_t: 0.6613, domain_loss: 1.3417,total_loss: 0.7368
+Source acc: 98.6000, target acc: 88.4013
+Epoch: [63/100], classify_loss: 0.0487, domain_loss_s: 0.6294, domain_loss_t: 0.6842, domain_loss: 1.3136,total_loss: 0.7056
+Source acc: 98.7500, target acc: 87.0792
+Epoch: [64/100], classify_loss: 0.0375, domain_loss_s: 0.6551, domain_loss_t: 0.6565, domain_loss: 1.3116,total_loss: 0.6933
+Source acc: 98.9000, target acc: 87.9902
+Epoch: [65/100], classify_loss: 0.0914, domain_loss_s: 0.6632, domain_loss_t: 0.7009, domain_loss: 1.3641,total_loss: 0.7735
+Source acc: 98.8700, target acc: 87.7236
+Epoch: [66/100], classify_loss: 0.0866, domain_loss_s: 0.6570, domain_loss_t: 0.6868, domain_loss: 1.3437,total_loss: 0.7585
+Source acc: 98.8900, target acc: 87.9569
+Epoch: [67/100], classify_loss: 0.0698, domain_loss_s: 0.6211, domain_loss_t: 0.6598, domain_loss: 1.2809,total_loss: 0.7103
+Source acc: 98.8800, target acc: 87.8680
+Epoch: [68/100], classify_loss: 0.0667, domain_loss_s: 0.6605, domain_loss_t: 0.6820, domain_loss: 1.3425,total_loss: 0.7380
+Source acc: 98.9200, target acc: 88.2235
+Epoch: [69/100], classify_loss: 0.0753, domain_loss_s: 0.6619, domain_loss_t: 0.6495, domain_loss: 1.3114,total_loss: 0.7310
+Source acc: 98.6900, target acc: 88.3902
+Epoch: [70/100], classify_loss: 0.0873, domain_loss_s: 0.6524, domain_loss_t: 0.6482, domain_loss: 1.3007,total_loss: 0.7376
+Source acc: 98.8600, target acc: 88.3680
+Epoch: [71/100], classify_loss: 0.0863, domain_loss_s: 0.6608, domain_loss_t: 0.6469, domain_loss: 1.3077,total_loss: 0.7402
+Source acc: 98.5800, target acc: 87.7014
+Epoch: [72/100], classify_loss: 0.0293, domain_loss_s: 0.6837, domain_loss_t: 0.6394, domain_loss: 1.3231,total_loss: 0.6908
+Source acc: 98.8000, target acc: 88.4457
+Epoch: [73/100], classify_loss: 0.1316, domain_loss_s: 0.6473, domain_loss_t: 0.6682, domain_loss: 1.3156,total_loss: 0.7894
+Source acc: 98.9100, target acc: 89.0346
+Epoch: [74/100], classify_loss: 0.0697, domain_loss_s: 0.6660, domain_loss_t: 0.6153, domain_loss: 1.2813,total_loss: 0.7104
+Source acc: 99.0000, target acc: 87.7125
+Epoch: [75/100], classify_loss: 0.1295, domain_loss_s: 0.6588, domain_loss_t: 0.6241, domain_loss: 1.2829,total_loss: 0.7709
+Source acc: 98.8300, target acc: 87.3347
+Epoch: [76/100], classify_loss: 0.0260, domain_loss_s: 0.6596, domain_loss_t: 0.6479, domain_loss: 1.3075,total_loss: 0.6798
+Source acc: 98.7400, target acc: 88.2458
+Epoch: [77/100], classify_loss: 0.0836, domain_loss_s: 0.6452, domain_loss_t: 0.6493, domain_loss: 1.2945,total_loss: 0.7308
+Source acc: 98.7700, target acc: 89.4567
+Epoch: [78/100], classify_loss: 0.0498, domain_loss_s: 0.6888, domain_loss_t: 0.6577, domain_loss: 1.3465,total_loss: 0.7231
+Source acc: 98.7500, target acc: 87.6125
+Epoch: [79/100], classify_loss: 0.1539, domain_loss_s: 0.6888, domain_loss_t: 0.6731, domain_loss: 1.3619,total_loss: 0.8348
+Source acc: 98.8400, target acc: 88.1124
+Epoch: [80/100], classify_loss: 0.0616, domain_loss_s: 0.6237, domain_loss_t: 0.6542, domain_loss: 1.2779,total_loss: 0.7005
+Source acc: 98.8700, target acc: 88.6457
+Epoch: [81/100], classify_loss: 0.0656, domain_loss_s: 0.6375, domain_loss_t: 0.6827, domain_loss: 1.3202,total_loss: 0.7256
+Source acc: 98.8600, target acc: 88.9790
+Epoch: [82/100], classify_loss: 0.0261, domain_loss_s: 0.6419, domain_loss_t: 0.6769, domain_loss: 1.3188,total_loss: 0.6855
+Source acc: 98.7000, target acc: 87.3570
+Epoch: [83/100], classify_loss: 0.0151, domain_loss_s: 0.6554, domain_loss_t: 0.6622, domain_loss: 1.3176,total_loss: 0.6739
+Source acc: 98.9900, target acc: 88.9457
+Epoch: [84/100], classify_loss: 0.0328, domain_loss_s: 0.6673, domain_loss_t: 0.6840, domain_loss: 1.3513,total_loss: 0.7084
+Source acc: 98.7900, target acc: 88.8457
+Epoch: [85/100], classify_loss: 0.0608, domain_loss_s: 0.6546, domain_loss_t: 0.6764, domain_loss: 1.3310,total_loss: 0.7263
+Source acc: 98.8000, target acc: 88.0013
+Epoch: [86/100], classify_loss: 0.0923, domain_loss_s: 0.6780, domain_loss_t: 0.6663, domain_loss: 1.3443,total_loss: 0.7645
+Source acc: 98.9800, target acc: 89.4234
+Epoch: [87/100], classify_loss: 0.0910, domain_loss_s: 0.6557, domain_loss_t: 0.6586, domain_loss: 1.3143,total_loss: 0.7481
+Source acc: 98.8200, target acc: 89.5567
+Epoch: [88/100], classify_loss: 0.0855, domain_loss_s: 0.6429, domain_loss_t: 0.6200, domain_loss: 1.2629,total_loss: 0.7169
+Source acc: 98.7500, target acc: 88.5346
+Epoch: [89/100], classify_loss: 0.0824, domain_loss_s: 0.6830, domain_loss_t: 0.6126, domain_loss: 1.2956,total_loss: 0.7302
+Source acc: 98.8400, target acc: 88.5457
+Epoch: [90/100], classify_loss: 0.0484, domain_loss_s: 0.6154, domain_loss_t: 0.6739, domain_loss: 1.2893,total_loss: 0.6930
+Source acc: 98.6700, target acc: 88.4902
+Epoch: [91/100], classify_loss: 0.0883, domain_loss_s: 0.6294, domain_loss_t: 0.6637, domain_loss: 1.2930,total_loss: 0.7349
+Source acc: 98.8600, target acc: 89.4789
+Epoch: [92/100], classify_loss: 0.0623, domain_loss_s: 0.6457, domain_loss_t: 0.6629, domain_loss: 1.3086,total_loss: 0.7166
+Source acc: 98.7000, target acc: 87.8458
+Epoch: [93/100], classify_loss: 0.0406, domain_loss_s: 0.6528, domain_loss_t: 0.6315, domain_loss: 1.2843,total_loss: 0.6827
+Source acc: 98.8200, target acc: 89.3790
+Epoch: [94/100], classify_loss: 0.0542, domain_loss_s: 0.6515, domain_loss_t: 0.6428, domain_loss: 1.2942,total_loss: 0.7013
+Source acc: 98.7200, target acc: 88.3457
+Epoch: [95/100], classify_loss: 0.0515, domain_loss_s: 0.6338, domain_loss_t: 0.6353, domain_loss: 1.2691,total_loss: 0.6860
+Source acc: 98.6800, target acc: 87.5125
+Epoch: [96/100], classify_loss: 0.0375, domain_loss_s: 0.6467, domain_loss_t: 0.6378, domain_loss: 1.2845,total_loss: 0.6798
+Source acc: 98.8200, target acc: 88.6457
+Epoch: [97/100], classify_loss: 0.0837, domain_loss_s: 0.6534, domain_loss_t: 0.6745, domain_loss: 1.3279,total_loss: 0.7477
+Source acc: 98.9500, target acc: 88.6235
+Epoch: [98/100], classify_loss: 0.0770, domain_loss_s: 0.6505, domain_loss_t: 0.6615, domain_loss: 1.3120,total_loss: 0.7330
+Source acc: 98.8500, target acc: 89.2790
+Epoch: [99/100], classify_loss: 0.0169, domain_loss_s: 0.6400, domain_loss_t: 0.6871, domain_loss: 1.3271,total_loss: 0.6805
+Source acc: 98.6600, target acc: 88.6679
